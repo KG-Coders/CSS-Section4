@@ -10,7 +10,7 @@ Below are links to participants' completed work on the `fourth sections` of Ange
 
 № | **Member** | **Links**
 | ------------ | ------------ | -------------
-1 | Gulia Isaeva | [Personal Page](https://github.com/guliaisaeva/Summer-Challenge-My-PersonalPage-Html.git)
+1 | Gulia Isaeva | [Personal Page](https://guliaisaeva.github.io/Summer-Challenge-My-PersonalPage-Html/)
 2 | Gulzhazy Tursunbekova | [Links will be here](http://example.net/)
 3 | Nadira Dzhumadylova | [Repository](https://github.com/NadiraDzhumadylova/Nadira_Personal-Site) 
 4 | Alihan Dzhumaev | [Repository](https://github.com/AlihanDzhumaev/Alihan-Personal-Site/deployments/activity_log?environment=github-pages)
