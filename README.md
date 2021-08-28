@@ -12,8 +12,8 @@ Below are links to participants' completed work on the `fourth sections` of Ange
 | ------------ | ------------ | -------------
 1 | Gulia Isaeva | [Personal Page](https://guliaisaeva.github.io/Summer-Challenge-My-PersonalPage-Html/)
 2 | Gulzhazy Tursunbekova | [Links will be here](http://example.net/)
-3 | Nadira Dzhumadylova | [Personal Page](https://nadiradzhumadylova.github.io/Nadira-Personal-Site/index.html) 
-4 | Alihan Dzhumaev | [Personal Page](https://alihandzhumaev.github.io/Alihan-Personal-Site/index.html)
+3 | Nadira Dzhumadylova | [Repository](https://github.com/NadiraDzhumadylova/Nadira_Personal-Site) 
+4 | Alihan Dzhumaev | [Repository](https://github.com/AlihanDzhumaev/Alihan-Personal-Site/deployments/activity_log?environment=github-pages)
 5 | Archabek Nurbek uulu | [Personal Page](https://archabek07.github.io/Summer_Challenge--Personal_Page--Section_2-3/)
 6 | Chyngyz Ormoshev | [Links will be here](http://example.net/)
 7 | Abidin Kurmanbek uulu | [Links will be here](http://example.net/)
